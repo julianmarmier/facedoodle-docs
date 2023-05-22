@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+title: Create a Page
 ---
 
 # Create a Page
