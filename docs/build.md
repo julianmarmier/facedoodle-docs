@@ -22,8 +22,6 @@ Don't hesitate to contact us if you have any questions !
 
 ## Designing the plotter 
 
-
-
 ### Which axis system and position?
 
 At the very beginning, we were hesitating on which system to choose between a vertical plotter and different systems of horizontal plotter.
