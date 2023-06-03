@@ -1,7 +1,7 @@
 ---
 toc_min_heading_level: 2
 toc_max_heading_level: 2
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Setting up the Hardware & Electronics
