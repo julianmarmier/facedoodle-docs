@@ -4,10 +4,12 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
+  padding: 5rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
+  background: linear-gradient(315deg, hsla(222, 82%, 76%, 1) 20%, hsla(303, 68%, 51%, 1) 90%);
+  ;
 }
 
 @media screen and (max-width: 996px) {
