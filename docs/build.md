@@ -137,7 +137,7 @@ To assemble it, here some steps to follow:
 - As you noticed, we changed the location of the Electronic device from the design to the final version. Fix the iPad support to the basis of the plotter (iPad or other device should be **completely vertical**). The iPad support that we provide on our [parts repository](https://gitlab.epfl.ch/facedoodle/parts) is adapted for 30°, but you can modify the files to change the inclination.
 
 - Fix the support of the laser and the laser on top of it.
-- Check out the [Hardware Setup](/gZCJZoEUQE2_kpDv9zu-vg) section for how to wire everything.
+- Check out the [Hardware Setup](/docs/electronics) section for how to wire everything.
 
 *Below the 2D plotter still in construction phase :*
 
