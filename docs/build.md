@@ -38,7 +38,7 @@ The system is not really intuitive, here is an explicative sketch of how the two
 
 :::note
 M1 and M2 are the stepper motors. They turn clockwise or counter-clockwise, the direction is indicated by the arrow on the cercle. 
-*Example* : To go in an upward direction, the stepper motor labeled M1 should turn counter-clockwise and the stepper motor M2 should turn in the opposite direction (clockwise).
+*Example* : To go in an upward direction, the stepper motor labeled M1 and M2 should turn clockwise.
 :::
 
 **And the position ?**
