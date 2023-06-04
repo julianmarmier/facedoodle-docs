@@ -52,9 +52,7 @@ The main challenge for the flutter app was to find a way to smoothen the drawing
 Other things that took time were included setting up the bluetooth communication (a good understanding was needed), understanding how to use eye-blinking features, or handle the ARKit face anchors.
 
 ## Preparing the development environment
-:::note
-Unfortunately, a macOS device and an iOS device with a TrueDepth sensor camera are currently needed to run the app.
-:::
+> **_NOTE:_** Unfortunately, a macOS device and an iOS device with a TrueDepth sensor camera are currently needed to run the app.
 
 1. Begin by installing [Xcode](https://developer.apple.com/xcode).
 2. Download and install the [Flutter SDK](https://docs.flutter.dev/get-started/install/macos) as well as [CocoaPods](https://cocoapods.org/). You may find it easier to do so using [Homebrew](https://brew.sh) (respective packages [here](https://formulae.brew.sh/cask/flutter#default) and [here](https://formulae.brew.sh/formula/cocoapods#default)).
