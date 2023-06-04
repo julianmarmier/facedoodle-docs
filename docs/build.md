@@ -131,8 +131,8 @@ To assemble it, here some steps to follow:
 
 - Fix the 2D plotter on a horizontal base. You can then build a support to incline it. 
 (*We built ours inclined with an 30° angle, using laser-cut wood pieces for the foundation.*)
-    - You will need to drill holes to pass the plotter and laser cables cables through the board as well as to fix the plotter to the board.  The image below displays a view of our plank before fixing the plotter and the laser.
-    - **Tip before drilling!** First place the plotter on the board and mark the holes to drill with a pencil before starting.
+- You will need to drill holes to pass the plotter and laser cables cables through the board as well as to fix the plotter to the board.  The image below displays a view of our plank before fixing the plotter and the laser.
+- **Tip before drilling!** First place the plotter on the board and mark the holes to drill with a pencil before starting.
 
 ![](https://hackmd.io/_uploads/BykgOAt8n.png)
 
