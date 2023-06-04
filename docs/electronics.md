@@ -67,7 +67,7 @@ The ESP32-CAM controls the pen servo by setting it to either UP (180°) or DOWN 
 
 The laser uses a pan-and-tilt mechanism with two servos. See the [plotter build section](/docs/build) for how the pieces work. The servos should be connected to the IO14 and IO2 pins, each one controlling a separate axis (alpha and beta).
 
-To power the Uno, we used a 9V battery pack. The power be supplied to the board by either soldering the battery's wires to the Vin and GND ports on the prototyping board, or by soldering them to a male power jack and connecting that to the Arduino's female power jack.
+To power the Uno, we used a 9V battery pack. The power can be supplied to the board by either soldering the battery's wires to the Vin and GND ports on the prototyping board, or by soldering them to a male power jack and connecting that to the Arduino's female power jack.
 
 ## Final circuit design
 
