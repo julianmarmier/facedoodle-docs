@@ -13,5 +13,8 @@ This guide will walk you through the steps needed to get this plotter up and run
 
 <!-- ![](https://hackmd.io/_uploads/rJnUtYdLh.jpg) -->
 
+You can also find our initial project proposition [here](https://docs.google.com/document/d/14f1S9p5atIBSwX1mrhHyiJjjPd0Y6VzMWitGP95JojU/edit?usp=sharing).
+
 We had the chance to realize this project into the SPOT building, hence we had access to a lot of different machines (trainings and supervision were required).
-As a result **we would like to thank the SPOT and SKIL assistants and coaches, Prof. Cristoph Koch, Federico Stella, Juliette and the rest of CS-358 teaching team that made this project possible.**
+
+**We would like to thank the SPOT and SKIL assistants and coaches, Prof. Christoph Koch, Federico Stella, Juliette Parchet and the rest of CS-358 teaching team that made this project possible.**
