@@ -32,13 +32,13 @@ We decided to build a **pulley system**, where the two axes are directly connect
 
 
 
-The system is not relly intuitive, here is an explicative schema of how the two axis can move in a 2D plane: 
+The system is not really intuitive, here is an explicative sketch of how the two axis can move in a 2D plane: 
 
 ![](https://hackmd.io/_uploads/rJMo_ec8h.jpg)
 
 :::note
 M1 and M2 are the stepper motors. They turn clockwise or counter-clockwise, the direction is indicated by the arrow on the cercle. 
-*Example* : To go in an upward direction, the stepper motor labeled M1 should turn counter-clockwise and the stepper motor M2 should turn in the opposite direction: clockwise.
+*Example* : To go in an upward direction, the stepper motor labeled M1 should turn counter-clockwise and the stepper motor M2 should turn in the opposite direction (clockwise).
 :::
 
 **And the position ?**
@@ -110,7 +110,7 @@ The idea is that the servo motor moves the pen holder piece up and down that sli
 
 
 ### 7. Laser holder pieces
-There are 3 main parts that will be useful to build the laser. It consits of two supports for the two servo motors that are used for the laser and the last piece is holding the laser. It is important to note that the wooden support is perpendicular to the inclined plane and not to the horizontal plane to reduce the inaccuracies caused by more complex calculations.
+There are 3 main parts that will be useful to build the laser. It consists of two supports for the two servo motors that are used for the laser and the last piece is holding the laser. It is important to note that the wooden support is perpendicular to the inclined plane and not to the horizontal plane to reduce the inaccuracies caused by more complex calculations.
 
 ![](https://hackmd.io/_uploads/rJiGvQPU3.jpg)
 
@@ -127,7 +127,7 @@ For the last 3D printed pieces, they are the pieces to mount the iPad on top of 
 
 ## Assembling all the parts
 
-To assemble it, here some steps to follow:
+To assemble it, here are some steps to follow:
 
 - Fix the 2D plotter on a horizontal base. You can then build a support to incline it. 
 (*We built ours inclined with an 30° angle, using laser-cut wood pieces for the foundation.*)
