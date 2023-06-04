@@ -34,7 +34,7 @@ We decided to build a **pulley system**, where the two axes are directly connect
 
 The system is not relly intuitive, here is an explicative schema of how the two axis can move in a 2D plane: 
 
-![](https://hackmd.io/_uploads/HkeLt-DL3.jpg)
+![](https://hackmd.io/_uploads/rJMo_ec8h.jpg)
 
 :::note
 M1 and M2 are the stepper motor. They turn in a clockwise or counter-clockwise, the direction is indicate by an arrow on the cercles. 
