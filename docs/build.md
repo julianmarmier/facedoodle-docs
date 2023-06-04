@@ -5,9 +5,9 @@ sidebar_position: 5
 # Building the Plotter
 
 ## Presentation
-This section presents how the plotter was designed and then built. This include in the beginning the considerations of differents designs and the reasons behind our choices. 
+This section presents how the plotter was designed and then built. This include in the beginning the considerations of different designs and the reasons behind our choices. 
 Furthermore we will include all the complications we faced and the solutions we found, in order to give the truest possible account. 
-We hope that if you wish to build a 2D plotter you will find here valuables resources to make your wish come true !
+We hope that if you wish to build a 2D plotter you will find here valuable resources to make your wish come true !
 Don't hesitate to contact us if you have any questions ! 
 
 ##### First Draft:
@@ -25,7 +25,7 @@ Don't hesitate to contact us if you have any questions !
 ### Which axis system and position?
 
 At the very beginning, we were hesitating on which system to choose between a vertical plotter and different systems of horizontal plotter.
-We decided to build a **pulley system**, where the two axes are directly connected with just one belt. To move in a cartesian plane we use the different rotation's direction of the stepper motor.
+We decided to build a **pulley system**, where the two axes are directly connected with just one belt. To move in a cartesian plane we use the different rotations of the stepper motors.
 *See next schema* 
 
 ![](https://hackmd.io/_uploads/ryTa6gFIh.png)
@@ -37,7 +37,7 @@ The system is not relly intuitive, here is an explicative schema of how the two 
 ![](https://hackmd.io/_uploads/rJMo_ec8h.jpg)
 
 :::note
-M1 and M2 are the stepper motor. They turn in a clockwise or counter-clockwise, the direction is indicate by an arrow on the cercles. 
+M1 and M2 are the stepper motors. They turn clockwise or counter-clockwise, the direction is indicated by the arrow on the cercle. 
 *Example* : To go in an upward direction, the stepper motor labeled M1 should turn counter-clockwise and the stepper motor M2 should turn in the opposite direction: clockwise.
 :::
 
