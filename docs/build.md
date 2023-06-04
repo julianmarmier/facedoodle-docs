@@ -154,19 +154,24 @@ Believe me: there were a lot and that really slowed us down! (Federico can testi
 ### We say solutions !
 
 - **Before starting: are we going to build a vertical plotter ? A horizontal one ? We’re lost !**
+
 Completely *horizontal* ? easier to build but the movement of the head and so the drawing will be less precise! In a *vertical* position ? the software (with the camera) being in front of the user will be more precise but the writing will be less precise and slower! 
 The *final choice*: inclined (fixed to a wooden board) to combine all the best options !
 
 - **Oups: the delrin wheels don’t fit with the Aluminum V-Slot bars...**
+
 Don't panic ! (we did panic) but we managed to fix the bars thanks to the SPOT workshop to machine the bars: hence it resolved the problem that the bars and the wheels were incompatible (we did think about a design with a metallical bar etc. less practical!)
 
 - **Adaptation with the washers**
+
 We used a lot of washers for the pulley system to adjust precisely the heights of the components: we strongly advise you to use wahsers !
 
 - **Too hot to handle**
+
 Make sure that you let through the right amount of current to the stepper motors so they don't heat up too fast.
 
 - **Laser accuracy**
+
 The laser was very temperamental. At first, it was just a matter of performing a coordinate transformation from (x,y) to (α,β) but we quickly realized that a small inaccuracy could cause a significant shift. Two solutions appeared to us: either make a software adaptation consisting of an interpolation of the coordinates entered in order to cancel the deviation as much as possible, or change certain parts (like changing the axis of the wooden support) in order to gain in rigidity and simplify the calculations to limit the propagation of uncertainty. It was the second solution that was chosen and it paid off.
 
 
