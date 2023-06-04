@@ -131,8 +131,9 @@ To assemble it, here some steps to follow:
 
 - Fix the 2D plotter on a horizontal base. You can then build a support to incline it. 
 (*We built ours inclined with an 30° angle, using laser-cut wood pieces for the foundation.*)
-    - You will need to drill holes to pass the plotter and laser cables cables through the board as well as to fix the plotter to the board. 
+    - You will need to drill holes to pass the plotter and laser cables cables through the board as well as to fix the plotter to the board.  The image below displays a view of our plank before fixing the plotter and the laser.
     - **Tip before drilling!** First place the plotter on the board and mark the holes to drill with a pencil before starting.
+    ![](https://hackmd.io/_uploads/BykgOAt8n.png)
 
 - As you noticed, we changed the location of the Electronic device from the design to the final version. Fix the iPad support to the basis of the plotter (iPad or other device should be **completely vertical**). The iPad support that we provide on our [parts repository](https://gitlab.epfl.ch/facedoodle/parts) is adapted for 30°, but you can modify the files to change the inclination.
 
