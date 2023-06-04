@@ -4,18 +4,42 @@
  */
 
 .heroBanner {
-  padding: 5rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
   background: linear-gradient(315deg, hsla(222, 82%, 76%, 1) 20%, hsla(303, 68%, 51%, 1) 90%);
-  ;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  max-height: 30rem;
+  justify-content: center;
+  color: white;
+}
+
+.titleInfo {
+  position: absolute;
+  top: 50%;
+}
+
+.videoContainer {
+  overflow: hidden;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.6;
+}
+
+.heroVideo {
+  padding: 0;
+  margin: 0;
+  min-width: 125%;
+  left: 100px;
+  min-height: 100%;
+  position: relative;
 }
 
 @media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
 }
 
 .buttons {
@@ -23,3 +47,8 @@
   align-items: center;
   justify-content: center;
 }
+
+.intro {
+  padding: 2rem 5rem;
+}
+
