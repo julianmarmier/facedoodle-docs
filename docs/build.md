@@ -5,7 +5,7 @@ sidebar_position: 5
 # Building the Plotter
 
 ## Presentation
-This section presents how the plotter was designed and then built. This include in the beginning the considerations of different designs and the reasons behind our choices. 
+This section presents how the plotter was designed and then built. This includes in the beginning the considerations of different designs and the reasons behind our choices. 
 Furthermore we will include all the complications we faced and the solutions we found, in order to give the truest possible account. 
 We hope that if you wish to build a 2D plotter you will find here valuable resources to make your wish come true !
 Don't hesitate to contact us if you have any questions ! 
