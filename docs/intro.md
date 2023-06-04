@@ -3,9 +3,7 @@ sidebar_position: 1
 ---
 # Overview
 
-:::info Motivation
-Help impaired people (reduced arm and hand functioning) draw physical images.
-:::
+> **_Motivation:_** Help impaired people (reduced arm and hand functioning) draw physical images.
 
 FaceDoodle is more than just a 2D plotter. It's an augmented 2D plotter that uses advanced face tracking technology to draw complex lines and shapes using only face movement! Your imagination is its only limit.  It is the combination of a regular 2D plotter and a face tracking drawing interface measuring the angular movements of the face and representating them by a cursor on a screen.
 
