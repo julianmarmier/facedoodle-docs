@@ -11,7 +11,7 @@
   display: flex;
   flex-flow: column nowrap;
   align-items: center;
-  max-height: 30rem;
+  max-height: calc(100vh - 3.75rem);
   justify-content: center;
   color: white;
 }
