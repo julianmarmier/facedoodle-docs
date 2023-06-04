@@ -13,6 +13,17 @@ This guide will walk you through the steps needed to get this plotter up and run
 
 You can also find our initial project proposition [here](https://docs.google.com/document/d/14f1S9p5atIBSwX1mrhHyiJjjPd0Y6VzMWitGP95JojU/edit?usp=sharing).
 
+## The team
+
+- [Martin Catheland](mailto:martin.catheland@epfl.ch)
+- [Chiara Freneix](mailto:chiara.freneix@epfl.ch)
+- [Alexandra Golay](mailto:alexandra.golay@epfl.ch)
+- [Cassio Manguerra](mailto:cassio.manguerra@epfl.ch)
+- [Julian Marmier](mailto:julian.marmier@epfl.ch)
+- [Luna Raithle](mailto:luna.raithle@epfl.ch)
+
+## About the project
+
 This project was conceived for the course [CS-358 Making Intelligent Things at EPFL](https://edu.epfl.ch/coursebook/en/making-intelligent-things-CS-358), supervised by [Federico Stella](https://people.epfl.ch/federico.stella).
 
 We had the chance to realize this project into the SPOT building, hence we had access to a lot of different machines (trainings and supervision were required).
